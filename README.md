@@ -1,5 +1,5 @@
 # john-s-demo 
 This is my first Repository
 <br>
-Author-Johnson john
-hello
+Author-Johnson 
+ hell0
